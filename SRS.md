@@ -74,7 +74,7 @@
 
 Экран выбора банка содержит список банков с указанием актуального курса валюты для каждого банка.
 
-![image](https://github.com/user-attachments/assets/0a2e4e9a-e709-4bec-8894-437bf1b7c090)
+![image](https://github.com/littlepelt/Currency-Wiever/blob/0c6c4bcfbb6b281d2455ca6624ff20ecf51c7ef1/mockups/bank_selection.png)
 
 Экран авторизации выглядит так.
 
