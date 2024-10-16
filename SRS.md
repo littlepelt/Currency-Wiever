@@ -66,7 +66,7 @@
 
 Главный экран выглядит так.
 
-![image](https://github.com/user-attachments/assets/08d1c6a8-43a1-4142-a00a-526510dbae08)
+![image](https://github.com/littlepelt/Currency-Wiever/blob/0e43c255dae8df7204c00ca8e7f3dbb1e3fcde7f/mockups/best_currency.png)
 
 Экран выбора валюты позволяет отметить какие валюты будут отображаться на главном экране.
 
