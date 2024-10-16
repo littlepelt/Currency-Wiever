@@ -70,7 +70,7 @@
 
 Экран выбора валюты позволяет отметить какие валюты будут отображаться на главном экране.
 
-![image](https://github.com/user-attachments/assets/90a8eea6-d53d-4bd5-bb67-32c5b6eaab8a)
+![image](https://github.com/littlepelt/Currency-Wiever/blob/846bece0846f8b145348764a97644d4e0f02242b/mockups/currency_selection.png)
 
 Экран выбора банка содержит список банков с указанием актуального курса валюты для каждого банка.
 
