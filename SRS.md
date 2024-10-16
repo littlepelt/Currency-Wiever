@@ -78,7 +78,7 @@
 
 Экран авторизации выглядит так.
 
-![authorization](https://github.com/user-attachments/assets/00142c28-c4eb-4b0b-9b3f-6132a6f0df69)
+![authorization](https://github.com/littlepelt/Currency-Wiever/blob/340f1610a1d42f0761e0e2adb52d922bb3e1b684/mockups/login.png)
 
 <a name="user_specifications"/>
 
