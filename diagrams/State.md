@@ -16,4 +16,4 @@
   
 ### 3. Конвертация валют<a name="3"></a>
 
-![Конвертация валют](images/currency_conversion_state_diagram.png)
+![Конвертация валют](images/currency_convertion_state_diagram.png)
