@@ -1,4 +1,4 @@
-# Сценарий использования "Currency Converter"
+# Сценарий использования "Currency Weiver"
 
 ![Диаграмма вариантов использования](images/use_case_diagram.png) 
 
